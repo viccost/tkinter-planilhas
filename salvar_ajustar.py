@@ -3,7 +3,7 @@ Module to helps to handling excel files. As save multiple archives and
 generate dataframes.
 
     Written by Victor Costa (victorcost_@outlook.com).
-    v2.0
+    v2.1
 """
 
 import pandas as pd
