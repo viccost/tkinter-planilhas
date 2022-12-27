@@ -118,6 +118,3 @@ def salvar_planilhas(df_para_salvar: list):
         nome = df["Nome"]
         modelo_dataframe = df["Dataframe"]
         salvar_arquivo_planilha(modelo_dataframe, nome, "xlsx", caminho_desktop)
-
-
-escolher_arquivo()
